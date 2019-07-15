@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+
+Simple demo created to show how Redux works to a few students.
+
+Added code splitting and lazy loading while at it.
 
 ## Available Scripts
 

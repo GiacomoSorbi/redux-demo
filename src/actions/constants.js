@@ -1,0 +1,3 @@
+export const CHANGE_INFO = 'CHANGE_INFO'
+export const DECREMENT_INFO = 'DECREMENT_INFO'
+export const INCREMENT_INFO = 'INCREMENT_INFO'
